@@ -2,7 +2,7 @@
 A net tool based from the explaination on BHP about how to create a netcat-like tool
 
 ### How to run: 
-cd Birbanet
+cd Birbanet \n
 (on listening machine)
 python3 Birbanet.py -t {ip address} -p {port} -l -c
 (on sender machine)
