@@ -6,7 +6,7 @@ A net tool based from the explaination on BHP about how to create a netcat-like 
 - (on listening machine)
 python3 Birbanet.py -t {ip address} -p {port} -l -c
 - (on sender machine)
-python Birbanet.py -t {ip address} -p {port}
+python3 Birbanet.py -t {ip address} -p {port}
 
 ###  fixes to do :
 - upload feature is untested
